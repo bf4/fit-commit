@@ -9,7 +9,7 @@ GEM
   specs:
     fuzzyhash (0.0.11)
     minitest (5.8.0)
-    rake (10.4.2)
+    rake (12.3.3)
     swearjar (1.0.0)
       fuzzyhash (~> 0.0.11)
 
@@ -19,7 +19,7 @@ PLATFORMS
 DEPENDENCIES
   fit-commit!
   minitest (~> 5.8)
-  rake (~> 10.4)
+  rake (~> 12.3)
 
 BUNDLED WITH
    1.10.6
