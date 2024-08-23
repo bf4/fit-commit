@@ -29,5 +29,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency("swearjar", "~> 1.0")
   gem.add_development_dependency("minitest", "~> 5.8")
-  gem.add_development_dependency("rake", "~> 10.4")
+  gem.add_development_dependency("rake", "~> 12.3")
 end
